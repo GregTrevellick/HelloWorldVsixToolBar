@@ -8,12 +8,11 @@
   <Commands package="guidToolbarTestCommandPackage">
 
     <Menus>
-      <Menu guid="guidToolbarTestCommandPackageCmdSet" id="Toolbar"
-            type="Toolbar" >
+      <Menu guid="guidToolbarTestCommandPackageCmdSet" id="Toolbar" type="Toolbar" >
         <CommandFlag>DefaultDocked</CommandFlag>
         <Strings>
-          <ButtonText>Test Toolbar</ButtonText>
-          <CommandName>Test Toolbar</CommandName>
+          <ButtonText>Test Toolbar3</ButtonText>
+          <CommandName>Test Toolbar3</CommandName>
         </Strings>
       </Menu>
     </Menus>
@@ -42,7 +41,7 @@
         <Parent guid= "guidToolbarTestCommandPackageCmdSet" id="ToolbarGroup" />
         <Icon guid="guidImages" id="bmpPic1" />
         <Strings>
-          <ButtonText>Invoke ToolbarTestCommand</ButtonText>
+          <ButtonText>Invoke ToolbarTestCommand3</ButtonText>
         </Strings>
       </Button>
     </Buttons>
