@@ -6,15 +6,40 @@
   <Extern href="vsshlids.h"/>
 
   <Commands package="guidToolbarTestCommandPackage">
+
+    <Menus>
+      <Menu guid="guidToolbarTestCommandPackageCmdSet" id="Toolbar"
+            type="Toolbar" >
+        <CommandFlag>DefaultDocked</CommandFlag>
+        <Strings>
+          <ButtonText>Test Toolbar</ButtonText>
+          <CommandName>Test Toolbar</CommandName>
+        </Strings>
+      </Menu>
+    </Menus>
+
     <Groups>
       <Group guid="guidToolbarTestCommandPackageCmdSet" id="MyMenuGroup" priority="0x0600">
         <Parent guid="guidSHLMainMenu" id="IDM_VS_MENU_TOOLS"/>
       </Group>
+
+      <Group guid="guidToolbarTestCommandPackageCmdSet" id="ToolbarGroup"
+             priority="0x0000">
+        <Parent guid="guidToolbarTestCommandPackageCmdSet" id="Toolbar"/>
+      </Group>
+
     </Groups>
 
     <Buttons>
-      <Button guid="guidToolbarTestCommandPackageCmdSet" id="ToolbarTestCommandId" priority="0x0100" type="Button">
+      <!--<Button guid="guidToolbarTestCommandPackageCmdSet" id="ToolbarTestCommandId" priority="0x0100" type="Button">
         <Parent guid="guidToolbarTestCommandPackageCmdSet" id="MyMenuGroup" />
+        <Icon guid="guidImages" id="bmpPic1" />
+        <Strings>
+          <ButtonText>Invoke ToolbarTestCommand</ButtonText>
+        </Strings>
+      </Button>-->
+      <Button guid="guidToolbarTestCommandPackageCmdSet" id="ToolbarTestCommandId" priority="0x0100" type="Button">
+        <Parent guid= "guidToolbarTestCommandPackageCmdSet" id="ToolbarGroup" />
         <Icon guid="guidImages" id="bmpPic1" />
         <Strings>
           <ButtonText>Invoke ToolbarTestCommand</ButtonText>
@@ -33,6 +58,10 @@
     <GuidSymbol name="guidToolbarTestCommandPackageCmdSet" value="{ea775f15-152c-46d2-b8c1-7819c9fb5bff}">
       <IDSymbol name="MyMenuGroup" value="0x1020" />
       <IDSymbol name="ToolbarTestCommandId" value="0x0100" />
+
+      <IDSymbol name="Toolbar" value="0x1000" />
+      <IDSymbol name="ToolbarGroup" value="0x1050" />
+
     </GuidSymbol>
 
     <GuidSymbol name="guidImages" value="{bc7d8ca2-3ee8-4937-adea-7bdb122b2124}" >
