@@ -10,7 +10,8 @@
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/b397d57fb66841b0a4f67e9718840281)](https://www.codacy.com/project/gtrevellick/HelloWorldVsixToolBar/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/HelloWorldVsixToolBar&amp;utm_campaign=Badge_Grade_Dashboard)
 
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/HelloWorldVsixToolBar/badge)](https://www.codefactor.io/repository/github/GregTrevellick/HelloWorldVsixToolBar)
-[![Inspecode Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/HelloWorldVsixToolBar/report?token=wNVDnwrbVFr2W2kkEM8wOMGwF7ffsxHD3qQi2mI3ack)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/HelloWorldVsixToolBar/branch/master/summary)
+[![DepShield](https://depshield.sonatype.org/badges/GregTrevellick/HelloWorldVsixToolBar/depshield.svg)](https://depshield.github.io)
+[![InspecodeRocro Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/HelloWorldVsixToolBar/report?token=wNVDnwrbVFr2W2kkEM8wOMGwF7ffsxHD3qQi2mI3ack)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/HelloWorldVsixToolBar/branch/master/summary)
 [![LGTM Alerts](https://img.shields.io/lgtm/alerts/g/GregTrevellick/HelloWorldVsixToolBar.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/HelloWorldVsixToolBar/alerts/)
 [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/GregTrevellick/HelloWorldVsixToolBar.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/HelloWorldVsixToolBar/context:javascript)
 [![GitHub top language](https://img.shields.io/github/languages/top/GregTrevellick/HelloWorldVsixToolBar.svg)](https://github.com/GregTrevellick/HelloWorldVsixToolBar)
@@ -31,7 +32,7 @@
 [![Appveyor Build status](https://ci.appveyor.com/api/projects/status/kv8q5fajysjxdwur?svg=true)](https://ci.appveyor.com/project/GregTrevellick/HelloWorldVsixToolBar)
 [![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/HelloWorldVsixToolBar.svg)](https://ci.appveyor.com/project/GregTrevellick/HelloWorldVsixToolBar/build/tests)
 [![Azure Build Status](https://gregtrevellick.visualstudio.com/HelloWorldVsixToolBar/_apis/build/status/HelloWorldVsixToolBar)](https://gregtrevellick.visualstudio.com/HelloWorldVsixToolBar/_build/latest?definitionId=34)
-[![Inspecode Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/HelloWorldVsixToolBar/status?token=wNVDnwrbVFr2W2kkEM8wOMGwF7ffsxHD3qQi2mI3ack)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/HelloWorldVsixToolBar/latest?completed=true)
+[![InspecodeRocro Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/HelloWorldVsixToolBar/status?token=wNVDnwrbVFr2W2kkEM8wOMGwF7ffsxHD3qQi2mI3ack)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/HelloWorldVsixToolBar/latest?completed=true)
 [![Hound](https://img.shields.io/badge/hound_ci-checked-brightgreen.svg)](https://houndci.com/)
 [![Access Lint github](https://img.shields.io/badge/a11y-checked-brightgreen.svg)](https://www.accesslint.com)
 [![ImgBot](https://img.shields.io/badge/images-optimized-brightgreen.svg)](https://imgbot.net/)
