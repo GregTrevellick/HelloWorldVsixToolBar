@@ -12,7 +12,7 @@ before_build:
     - cmd: nuget restore Src/VSIXProject1.sln
     - choco install opencover.portable
     - choco install codecov
-    - SonarScanner.MSBuild.exe begin /k:"HelloWorldVsixPopUp" /d:"sonar.host.url=https://sonarqube.com" /d:"sonar.login=%my_encrypted_sonarqube_token%" /d:"sonar.organization=gregtrevellick-github"
+    - SonarScanner.MSBuild.exe begin /k:"HelloWorldVsixToolBar" /d:"sonar.host.url=https://sonarqube.com" /d:"sonar.login=%my_encrypted_sonarqube_token%" /d:"sonar.organization=gregtrevellick-github"
 build:
   project: Src/VSIXProject1.sln
   verbosity: minimal
