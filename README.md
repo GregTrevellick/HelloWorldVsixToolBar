@@ -5,11 +5,8 @@
 [![Read Me Synchronizer](https://img.shields.io/badge/-powered%20by%20ReadMeSynchronizer-brightgreen.svg)](https://github.com/GregTrevellick/ReadMeSynchronizer)
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/HelloWorldVsixToolBar?branch=master)](https://bettercodehub.com/results/GregTrevellick/HelloWorldVsixToolBar)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/b397d57fb66841b0a4f67e9718840281)](https://www.codacy.com/project/gtrevellick/HelloWorldVsixToolBar/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/HelloWorldVsixToolBar&amp;utm_campaign=Badge_Grade_Dashboard)
-<!-- no md -->
-[![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/HelloWorldVsixToolBar/badge)](https://www.codefactor.io/repository/github/GregTrevellick/HelloWorldVsixToolBar)
-<!-- no md -->
-<!-- no md -->
-[![LGTM Alerts](https://img.shields.io/lgtm/alerts/g/GregTrevellick/HelloWorldVsixToolBar.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/HelloWorldVsixToolBar/alerts/)
+ [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/HelloWorldVsixToolBar/badge)](https://www.codefactor.io/repository/github/GregTrevellick/HelloWorldVsixToolBar)
+  [![LGTM Alerts](https://img.shields.io/lgtm/alerts/g/GregTrevellick/HelloWorldVsixToolBar.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/HelloWorldVsixToolBar/alerts/)
 [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/GregTrevellick/HelloWorldVsixToolBar.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/HelloWorldVsixToolBar/context:javascript)
 [![GitHub top language](https://img.shields.io/github/languages/top/GregTrevellick/HelloWorldVsixToolBar.svg)](https://github.com/GregTrevellick/HelloWorldVsixToolBar)
 [![Github language count](https://img.shields.io/github/languages/count/GregTrevellick/HelloWorldVsixToolBar.svg)](https://github.com/GregTrevellick/HelloWorldVsixToolBar)
@@ -36,8 +33,7 @@
 [![Charity Ware](https://img.shields.io/badge/charity%20ware-thank%20you-brightgreen.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts/wiki/Charity-Ware)
 [![License](https://img.shields.io/github/license/gittools/gitlink.svg)](/LICENSE.txt)
 [![Subscribe](https://img.shields.io/badge/subscribe%20to%20receive%20notificatons-grey.svg)](https://github.com/GregTrevellick/HelloWorldVsixToolBar/subscription)
-<!-- no md -->
-
+ 
 <!--BadgesEND-->
 
 [![License](https://img.shields.io/github/license/gittools/gitlink.svg)](/LICENSE.txt)
